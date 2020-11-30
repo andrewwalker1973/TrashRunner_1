@@ -17,34 +17,62 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 95a3c2cd5e0a1b745a3fd1ce16c01ff9
   m_SerializeEntries:
+  - m_GUID: 11d9941e4b29f6b4e831142ef2d4337a
+    m_Address: ObstacleTopSecretCrate
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7021646696929124171, guid: 11d9941e4b29f6b4e831142ef2d4337a,
+      type: 3}
+    m_TargetAsset: {fileID: 7021646696929124171, guid: 11d9941e4b29f6b4e831142ef2d4337a,
+      type: 3}
   - m_GUID: 22facfbe232a90b45b681c638f2e490d
     m_Address: ObstacleBin
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 82eb370d70e50344cb6eeb919a1429b8
-    m_Address: ObstacleRoadworksBarrier
+    m_MainAsset: {fileID: 1000011638144408, guid: 22facfbe232a90b45b681c638f2e490d,
+      type: 3}
+    m_TargetAsset: {fileID: 1000011638144408, guid: 22facfbe232a90b45b681c638f2e490d,
+      type: 3}
+  - m_GUID: 9cc6dc2caa0b0ee4b9bfa702e14ff657
+    m_Address: ObstacleLowBarrier-laserBeams
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: b19a0bd8ede69fe4683dff84150a047b
-    m_Address: ObstacleHighBarrier
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: d68ac797bf384f84bbca159dc2a6e4d7
-    m_Address: ObstacleLowBarrier
-    m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_MainAsset: {fileID: 8660646693050501016, guid: 9cc6dc2caa0b0ee4b9bfa702e14ff657,
+      type: 3}
+    m_TargetAsset: {fileID: 8660646693050501016, guid: 9cc6dc2caa0b0ee4b9bfa702e14ff657,
+      type: 3}
   - m_GUID: d9056217b765e1b4893238b9e7ebddbc
     m_Address: ObstacleWheelyBin
     m_ReadOnly: 0
     m_SerializedLabels: []
+    m_MainAsset: {fileID: 1000013234899880, guid: d9056217b765e1b4893238b9e7ebddbc,
+      type: 3}
+    m_TargetAsset: {fileID: 1000013234899880, guid: d9056217b765e1b4893238b9e7ebddbc,
+      type: 3}
+  - m_GUID: de943ef0b516b4e429d5399e3bbe5fd9
+    m_Address: ObstacleHighBarrier-laserBeams
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 8470359500962959, guid: de943ef0b516b4e429d5399e3bbe5fd9,
+      type: 3}
+    m_TargetAsset: {fileID: 8470359500962959, guid: de943ef0b516b4e429d5399e3bbe5fd9,
+      type: 3}
   - m_GUID: ec0335ae7fd65b74898920e51d042abd
     m_Address: ObstacleRat
     m_ReadOnly: 0
     m_SerializedLabels: []
+    m_MainAsset: {fileID: 1000013686302960, guid: ec0335ae7fd65b74898920e51d042abd,
+      type: 3}
+    m_TargetAsset: {fileID: 1000013686302960, guid: ec0335ae7fd65b74898920e51d042abd,
+      type: 3}
   - m_GUID: f0070c0f7d7cdcb4eb7176be4a87caa9
     m_Address: ObstacleRoadworksCone
     m_ReadOnly: 0
     m_SerializedLabels: []
+    m_MainAsset: {fileID: 1000010256476064, guid: f0070c0f7d7cdcb4eb7176be4a87caa9,
+      type: 3}
+    m_TargetAsset: {fileID: 1000010256476064, guid: f0070c0f7d7cdcb4eb7176be4a87caa9,
+      type: 3}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 735e874f947d0e143a6b4e83f8a7283a, type: 2}
   m_SchemaSet:
